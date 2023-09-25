@@ -1,0 +1,42 @@
+Forma de Ingresso,Ingressantes,Matriculados,Formados
+Enem - Unb,27,71,0
+Matrícula Cortesia,1,1,0
+Mudança De Curso,0,3,4
+Portador De Diploma De Curso Superior,8,9,0
+Programa De Avaliação Seriada,26,117,41
+Sisu-Sistema De Seleção Unificada,0,30,10
+Transferência Facultativa,1,2,0
+Transferência Obrigatória,1,2,0
+Vestibular,15,60,41
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+,,,
+Forma de saída do Curso,Ingressantes,Matriculados,Formados
+Ativo,72,295,0
+Cancelado,7,0,0
+Concluído,0,0,77
+Formado,0,0,19
+Total,79,295,96
+,,,
+Apoio,Ingressantes,Matriculados,Formados
+Auxílio Emergencial,2,2,0
+Auxílio Moradia,0,2,1
+Auxílio Socioeconômico,0,22,2
+Auxílio Transporte,0,1,0
+Bolsa Alimentação,13,42,0
+Inclusão digital,3,4,0
+Moradia na CEU,0,2,0
+Sem apoio,65,252,95
+NA,NA,NA,NA
